@@ -17,6 +17,10 @@ function App (){
         </div>
       </div>
 
+      <div>
+        <Stats/>
+        <Business/>
+      </div>
       
 
     </div>
