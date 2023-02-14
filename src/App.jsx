@@ -20,6 +20,8 @@ function App (){
       <div>
         <Stats/>
         <Business/>
+        <Billings/>
+        <CardDeal/>
       </div>
       
 
